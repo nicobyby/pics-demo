@@ -1,0 +1,3 @@
+pics-demo
+本demo为图床demo，后台包含文件接收和保存处理
+前端由VUE框架和element ui制作
